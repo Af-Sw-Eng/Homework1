@@ -1,1 +1,3 @@
-# Homework1
+Sensor and sensing Technology 
+***************************
+Tianjin Universtiy
