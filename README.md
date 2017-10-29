@@ -38,6 +38,7 @@ For my final project, I will use the PIR Sensor to detect any movement occurring
    1-Connect the 5volt port on the Arduino to the power outlets on the side of the breadboard and the
  Gnd port on the Arduino on the negative power outlets on the breadboard as
  
- ![alt text](https://raw.githubusercontent.com/Af-Sw-Eng/Homework1/master/1_step.jpg)
+ 
   
+![alt text](https://raw.githubusercontent.com/711299244/Homework-AFIFA-KHALED-/master/Project/1_step.jpg)
 
